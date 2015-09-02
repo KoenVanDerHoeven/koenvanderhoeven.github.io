@@ -260,12 +260,19 @@ a:focus {
         transform: scale(1);
     }
 }
+.ability-section {
+    background: url(../img/intro-bg3.jpg) no-repeat center center scroll;
+
+}
+
+.contact-section {
+    background: url(../img/intro-bg2.jpg) no-repeat center center scroll;
+}
 
 .ability-section, .contact-section {
     width: 100%;
     padding: 100px 0;
     color: #fff;
-    background: url(../img/intro-bg2.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
